@@ -1,6 +1,7 @@
 # 🧙 Harry Potter Cloak Project
 Fun invisibility cloak + spells project with OpenCV & Python.
-MADE BY: Adith Nambiar, Roshan M Nair & Aakash Chaudhary
+
+# MADE BY: Adith Nambiar, Roshan M Nair & Aakash Chaudhary
 
 # 🧙‍♂️ Harry Potter Invisibility Cloak
 

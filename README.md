@@ -15,7 +15,7 @@ It works by detecting a specific cloak color (e.g., red/green/blue) and replacin
 - Background capture and subtraction
 - Works with a colored cloak (default: red)
 
-# Made by: Adith Nambiar, Roshan M Nair & Aakash Chaudhary
+### Made by: Adith Nambiar, Roshan M Nair & Aakash Chaudhary
 ---
 
 ## 📦 Requirements

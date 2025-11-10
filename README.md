@@ -1,7 +1,7 @@
 # 🧙 Harry Potter Cloak Project
 Fun invisibility cloak + spells project with OpenCV & Python.
 
-# MADE BY: Adith Nambiar, Roshan M Nair & Aakash Chaudhary
+
 
 # 🧙‍♂️ Harry Potter Invisibility Cloak
 
@@ -15,6 +15,7 @@ It works by detecting a specific cloak color (e.g., red/green/blue) and replacin
 - Background capture and subtraction
 - Works with a colored cloak (default: red)
 
+# Made by: Adith Nambiar, Roshan M Nair & Aakash Chaudhary
 ---
 
 ## 📦 Requirements
